@@ -1,0 +1,4 @@
+Classifier,Accuracy (Original),Accuracy (+4 Features),Improvement
+Decision Tree,0.6542,0.6262,-0.028
+Random Forest,0.757,0.7944,0.0374
+Naive Bayes,0.7196,0.6822,-0.0374
