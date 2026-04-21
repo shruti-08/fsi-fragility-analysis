@@ -1,8 +1,7 @@
 # ── Create .gitignore ────────────────────────────────────────────────────────
 gitignore = """
 # Data files — too large or sensitive for git
-data/raw/
-data/processed/
+
 
 # Python
 __pycache__/
